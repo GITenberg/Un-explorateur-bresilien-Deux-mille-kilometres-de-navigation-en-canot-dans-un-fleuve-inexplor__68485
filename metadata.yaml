@@ -1,0 +1,38 @@
+_repo: Un-explorateur-bresilien-Deux-mille-kilometres-de-navigation-en-canot-dans-un-fleuve-inexplor__68485
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gravière, Jean Pierre Edmond Jurien de la
+    gutenberg_agent_id: '54793'
+    url: http://www.gutenberg.org/2009/agents/54793
+creator:
+  author:
+    agent_name: Hoonholtz, Antonio Luis von
+    gutenberg_agent_id: '54791'
+    url: http://www.gutenberg.org/2009/agents/54791
+  editor:
+    agent_name: Marc, Alfred
+    gutenberg_agent_id: '54792'
+    url: http://www.gutenberg.org/2009/agents/54792
+description: ''
+gutenberg_issued: '2022-07-09'
+identifiers:
+  gutenberg: '68485'
+language: fr
+pgterms:marc904: https://archive.org/details/unexplorateurbr00teffgoog
+pgterms:marc905: 20210508041611vonhoonhol
+pgterms:marc906: '1889'
+pgterms:marc907: fr
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: France :Alcan-Lévy,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Un explorateur brésilien: Deux mille kilomètres de navigation en canot dans
+  un fleuve inexploré et complètement dominé par des sauvages féroces et indomptables
+  (extrait du Journal du capitaine de frégate baron de Teffé)'
+url: http://www.gutenberg.org/ebooks/68485
