@@ -5,6 +5,9 @@ contributor:
     agent_name: Gravière, Jean Pierre Edmond Jurien de la
     gutenberg_agent_id: '54793'
     url: http://www.gutenberg.org/2009/agents/54793
+covers:
+- cover_type: archival
+  image_path: 68485-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoonholtz, Antonio Luis von
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '54792'
     url: http://www.gutenberg.org/2009/agents/54792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68485#Un-explorateur-bresilien-Deux-mille-kilometres-de-navigation-en-canot-dans-un-fleuve-inexplor_
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68485'
